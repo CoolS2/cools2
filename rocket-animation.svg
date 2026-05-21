@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 810 260" style="">
+  
+  <rect width="800" height="250" fill="#0d1117" style="fill:rgb(13, 17, 23);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <g fill="#ffffff" opacity="0.25" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <circle cx="30" cy="60" r="1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/><circle cx="120" cy="170" r="1.5" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/><circle cx="310" cy="15" r="1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="500" cy="230" r="1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/><circle cx="620" cy="40" r="1.5" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/><circle cx="760" cy="195" r="1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <circle cx="200" cy="220" r="1" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/><circle cx="420" cy="130" r="1.2" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <!-- GitHub grid definition -->
+  <defs>
+    <pattern id="grid" x="44" y="20" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect width="11" height="11" rx="2" fill="#161b22"/>
+    </pattern>
+  </defs>
+  
+  <rect x="44" y="20" width="742" height="98" fill="url(#grid)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Static commit squares -->
+  <rect x="44" y="62" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="44" y="76" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="44" y="90" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="58" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="58" y="48" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="58" y="76" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="72" y="34" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="72" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="72" y="90" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="100" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="100" y="48" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="128" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="128" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="128" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="128" y="90" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="142" y="20" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="142" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="142" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="142" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="142" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="170" y="48" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="170" y="76" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="198" y="20" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="198" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="198" y="90" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="226" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="226" y="48" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="226" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="240" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="240" y="34" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="240" y="48" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="240" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="240" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="240" y="90" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="268" y="48" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="268" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="296" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="296" y="76" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="324" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="324" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="324" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="324" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="324" y="90" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="338" y="20" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="338" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="338" y="48" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="338" y="62" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="366" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="366" y="90" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="394" y="20" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="394" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="394" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="422" y="34" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="422" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="422" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="436" y="20" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="436" y="34" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="436" y="48" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="436" y="62" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="436" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="436" y="90" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="450" y="20" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="450" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="450" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="450" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="450" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="450" y="90" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="478" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="478" y="76" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="506" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="506" y="62" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="506" y="90" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="534" y="34" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="534" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="534" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="562" y="20" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="562" y="48" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="562" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="562" y="76" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="576" y="34" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="576" y="48" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="576" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="604" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="604" y="76" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="632" y="48" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="632" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="632" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="632" y="90" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="646" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="646" y="48" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="646" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="646" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="674" y="34" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="674" y="62" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="674" y="90" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="702" y="20" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="702" y="48" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="702" y="76" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="730" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="730" y="62" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+  <rect x="730" y="90" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="758" y="20" width="11" height="11" rx="2" fill="#0e4429" style="fill:rgb(14, 68, 41);stroke:none;" />
+  <rect x="758" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;" />
+  <rect x="758" y="62" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;" />
+  <rect x="758" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;" />
+
+  <!-- Animated targets that fly away and fade upon hit -->
+  <rect id="t1" x="159" y="76" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;">
+    <!-- Fade out while flying -->
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0; 0.149; 0.15; 0.2; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away translation -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,0; -30,-50; -30,-50; 0,0" keyTimes="0; 0.149; 0.15; 0.2; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away rotation -->
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 164.5 81.5; 0 164.5 81.5; 0 164.5 81.5; -200 164.5 81.5; -200 164.5 81.5; 0 164.5 81.5" keyTimes="0; 0.149; 0.15; 0.2; 0.99; 1" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <rect id="t2" x="283" y="34" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;">
+    <!-- Fade out while flying -->
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0; 0.299; 0.3; 0.35; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away translation -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,0; 30,-40; 30,-40; 0,0" keyTimes="0; 0.299; 0.3; 0.35; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away rotation -->
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 288.5 39.5; 0 288.5 39.5; 0 288.5 39.5; 200 288.5 39.5; 200 288.5 39.5; 0 288.5 39.5" keyTimes="0; 0.299; 0.3; 0.35; 0.99; 1" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <rect id="t3" x="409" y="90" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;">
+    <!-- Fade out while flying -->
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0; 0.449; 0.45; 0.5; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away translation -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,0; -40,-30; -40,-30; 0,0" keyTimes="0; 0.449; 0.45; 0.5; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away rotation -->
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 414.5 95.5; 0 414.5 95.5; 0 414.5 95.5; -180 414.5 95.5; -180 414.5 95.5; 0 414.5 95.5" keyTimes="0; 0.449; 0.45; 0.5; 0.99; 1" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <rect id="t4" x="521" y="48" width="11" height="11" rx="2" fill="#006d32" style="fill:rgb(0, 109, 50);stroke:none;">
+    <!-- Fade out while flying -->
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0; 0.599; 0.6; 0.65; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away translation -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,0; 40,-50; 40,-50; 0,0" keyTimes="0; 0.599; 0.6; 0.65; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away rotation -->
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 526.5 53.5; 0 526.5 53.5; 0 526.5 53.5; 250 526.5 53.5; 250 526.5 53.5; 0 526.5 53.5" keyTimes="0; 0.599; 0.6; 0.65; 0.99; 1" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <rect id="t5" x="645" y="20" width="11" height="11" rx="2" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;">
+    <!-- Fade out while flying -->
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0; 0.749; 0.75; 0.8; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away translation -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,0; -30,-60; -30,-60; 0,0" keyTimes="0; 0.749; 0.75; 0.8; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away rotation -->
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 650.5 25.5; 0 650.5 25.5; 0 650.5 25.5; -220 650.5 25.5; -220 650.5 25.5; 0 650.5 25.5" keyTimes="0; 0.749; 0.75; 0.8; 0.99; 1" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <rect id="t6" x="703" y="62" width="11" height="11" rx="2" fill="#26a641" style="fill:rgb(38, 166, 65);stroke:none;">
+    <!-- Fade out while flying -->
+    <animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0; 0.899; 0.9; 0.95; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away translation -->
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,0; 0,0; 50,-30; 50,-30; 0,0" keyTimes="0; 0.899; 0.9; 0.95; 0.99; 1" dur="10s" repeatCount="indefinite" />
+    <!-- Fly away rotation -->
+    <animateTransform attributeName="transform" type="rotate" additive="sum" values="0 708.5 67.5; 0 708.5 67.5; 0 708.5 67.5; 180 708.5 67.5; 180 708.5 67.5; 0 708.5 67.5" keyTimes="0; 0.899; 0.9; 0.95; 0.99; 1" dur="10s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Animated Lasers -->
+  <line id="laser1" x1="165" y1="210" x2="165" y2="196" style="fill:rgb(0, 0, 0);stroke:rgb(57, 211, 83);stroke-width:2px;stroke-linecap:round;">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.099;0.1;0.14;0.15;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y1" values="210;210;210;87;87;210" keyTimes="0;0.099;0.1;0.14;0.15;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="196;196;196;76;76;196" keyTimes="0;0.099;0.1;0.14;0.15;1" dur="10s" repeatCount="indefinite" />
+  </line>
+  
+  <line id="laser2" x1="289" y1="210" x2="289" y2="196" style="fill:rgb(0, 0, 0);stroke:rgb(57, 211, 83);stroke-width:2px;stroke-linecap:round;">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.249;0.25;0.29;0.30;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y1" values="210;210;210;45;45;210" keyTimes="0;0.249;0.25;0.29;0.30;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="196;196;196;34;34;196" keyTimes="0;0.249;0.25;0.29;0.30;1" dur="10s" repeatCount="indefinite" />
+  </line>
+  
+  <line id="laser3" x1="415" y1="210" x2="415" y2="196" style="fill:rgb(0, 0, 0);stroke:rgb(57, 211, 83);stroke-width:2px;stroke-linecap:round;">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.399;0.40;0.44;0.45;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y1" values="210;210;210;101;101;210" keyTimes="0;0.399;0.40;0.44;0.45;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="196;196;196;90;90;196" keyTimes="0;0.399;0.40;0.44;0.45;1" dur="10s" repeatCount="indefinite" />
+  </line>
+  
+  <line id="laser4" x1="527" y1="210" x2="527" y2="196" style="fill:rgb(0, 0, 0);stroke:rgb(57, 211, 83);stroke-width:2px;stroke-linecap:round;">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.549;0.55;0.59;0.60;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y1" values="210;210;210;59;59;210" keyTimes="0;0.549;0.55;0.59;0.60;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="196;196;196;48;48;196" keyTimes="0;0.549;0.55;0.59;0.60;1" dur="10s" repeatCount="indefinite" />
+  </line>
+  
+  <line id="laser5" x1="651" y1="210" x2="651" y2="196" style="fill:rgb(0, 0, 0);stroke:rgb(57, 211, 83);stroke-width:2px;stroke-linecap:round;">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.699;0.70;0.74;0.75;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y1" values="210;210;210;31;31;210" keyTimes="0;0.699;0.70;0.74;0.75;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="196;196;196;20;20;196" keyTimes="0;0.699;0.70;0.74;0.75;1" dur="10s" repeatCount="indefinite" />
+  </line>
+  
+  <line id="laser6" x1="709" y1="210" x2="709" y2="196" style="fill:rgb(0, 0, 0);stroke:rgb(57, 211, 83);stroke-width:2px;stroke-linecap:round;">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.849;0.85;0.89;0.90;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y1" values="210;210;210;73;73;210" keyTimes="0;0.849;0.85;0.89;0.90;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="196;196;196;62;62;196" keyTimes="0;0.849;0.85;0.89;0.90;1" dur="10s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Animated Spaceship -->
+  <g id="spaceship" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;">
+    <!-- Move spaceship horizontally -->
+    <animateTransform attributeName="transform" type="translate" values="-50,0; 165,0; 165,0; 289,0; 289,0; 415,0; 415,0; 527,0; 527,0; 651,0; 651,0; 709,0; 709,0; 850,0" keyTimes="0; 0.1; 0.15; 0.25; 0.3; 0.4; 0.45; 0.55; 0.6; 0.7; 0.75; 0.85; 0.9; 1" dur="10s" repeatCount="indefinite" />
+    
+    <path d="M-15,15 L0,-12 L15,15 L0,5 Z" fill="#ffffff" transform="translate(0,200)" style="fill:rgb(255, 255, 255);stroke:none;" />
+    <polygon points="0,-2 -4,5 4,5" fill="#58a6ff" transform="translate(0,200)" style="fill:rgb(88, 166, 255);stroke:none;" />
+    <polygon points="-5,215 5,215 0,225" fill="#39d353" style="fill:rgb(57, 211, 83);stroke:none;opacity:0.412;">
+      <animate attributeName="opacity" values="1;0.3;1" dur="0.15s" repeatCount="indefinite" style="fill:rgb(57, 211, 83);stroke:none;"/>
+    </polygon>
+  </g>
+</svg>
