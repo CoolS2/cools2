@@ -21,5 +21,5 @@
 <p align="center">
 <a href="https://lv.linkedin.com/in/aleksandrs-reidzans-a372b389/en" target="_blank"><img alt="GIF" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20rem" style="max-width:100%;"></a></p>
 
-  ![Rocket animation](https://github.com/cools2/cools2/blob/output/rocket-animation.svg)
+  ![Rocket animation](https://github.com/CoolS2/cools2/blob/main/rocket-animation.svg)
   
