@@ -7,12 +7,12 @@
 
 <p align="center"> 
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/favicon.svg" alt="php" width="30" height="30"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactJS" width="30" height="30"/> </a>
-  <a href="https://www.magento-opensource.com/" target="_blank"> <img src="https://www.magento-opensource.com/static/version1776599108/frontend/z1/hyva/en_US/Magento_Theme/favicon.ico" alt="php" width="30" height="30"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactJS" width="30" height="30"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs" width="30" height="30"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://react.dev/favicon-32x32.png" alt="reactJS" width="30" height="30"/> </a>
+  <a href="https://www.magento-opensource.com/" target="_blank"> <img src="https://www.magento-opensource.com/static/frontend/z1/hyva/en_US/Magento_Theme/favicon.ico" alt="php" width="30" height="30"/> </a>
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/pwa/apple-icon-180.png" alt="reactJS" width="30" height="30"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/logo.svg" alt="VueJs" width="30" height="30"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="reactJS" width="30" height="30"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres" width="30" height="30"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/favicon.ico" alt="Postgres" width="30" height="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="30" height="30"/> </a>
  </p>
